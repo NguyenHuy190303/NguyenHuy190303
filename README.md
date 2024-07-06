@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-I'm a passionate software developer from VietNam. I love coding, learning new technologies, and contributing to open-source projects.
+I'm a passionate software developer from VietNam. I love learning new cultures, helping others, learning new technologies, and contributing to research.
 
 ## 🚀 Projects
 - [streamlit-project](https://github.com/NguyenHuy190303/streamlit-project): This Streamlit application showcases various machine learning models and utilities.
