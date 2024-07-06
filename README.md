@@ -13,7 +13,7 @@ I'm a passionate software developer from [Your Country]. I love coding, learning
 ## 🛠️ Skills
 - Programming Languages: `Python`, `C`, `C++`
 - Frameworks: 'numpy', 'pandas', 'matlotpip', 'flask', 'streamlit', 'scikit-learn'
-- Tools: `Git`, `Docker`, `Kubernetes`, 'Jupyter Notebook', 'anaconda'
+- Tools: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `anaconda`
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-5552b22aa/)
