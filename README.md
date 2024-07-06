@@ -11,7 +11,7 @@ I'm a passionate software developer from VietNam. I love learning new cultures, 
 - [YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project): Fine-tuning YOLOv10 to detect whether workers are wearing a helmet.
 
 ## 🛠️ Skills
-- Programming Languages: `Python`, `C`, `C++`
+- Programming Languages: `Python`, `C`
 - Frameworks: `numpy`, `pandas`, `matlotpip`, `flask`, `streamlit`, `scikit-learn`
 - Tools: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `anaconda`
 
