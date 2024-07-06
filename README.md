@@ -5,19 +5,17 @@
 I'm a passionate software developer from [Your Country]. I love coding, learning new technologies, and contributing to open-source projects.
 
 ## 🚀 Projects
-- [Project 1](https://github.com/your-username/project-1): Short description of project 1.
-- [Project 2](https://github.com/your-username/project-2): Short description of project 2.
-- [Project 3](https://github.com/your-username/project-3): Short description of project 3.
+- [streamlit-project](https://github.com/NguyenHuy190303/streamlit-project): This Streamlit application showcases various machine learning models and utilities.
+- [LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA): This project implements a Question Answering system using Large Language Models (LLMs) on PDF documents. The system supports running via Tunnel or Ngrok.
+- [SentimentAnalyzer-Streamlitapp](https://github.com/NguyenHuy190303/SentimentAnalyzer-Streamlitapp): SentimentAnalyzerApp is a user-friendly Streamlit application designed to analyze the sentiment of text inputs.
+- [YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project): Fine-tuning YOLOv10 to detect whether workers are wearing a helmet.
 
 ## 🛠️ Skills
-- Programming Languages: `Python`, `JavaScript`, `C++`
-- Frameworks: `React`, `Node.js`, `Django`
-- Tools: `Git`, `Docker`, `Kubernetes`
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+- Programming Languages: `Python`, `C`, 'C++'
+- Frameworks: 'numpy', 'pandas', 'matlotpip', 'flask', 'streamlit', 'scikit-learn'
+- Tools: `Git`, `Docker`, `Kubernetes`, 'Jupyter Notebook', 'anaconda'
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-5552b22aa/)
+- [Facebook](https://www.facebook.com/Flinnismine/)
+- [Email](nguyenhuy190303@gmail.com)
