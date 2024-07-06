@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Leo 👋
 
-![Profile Banner](https://link-to-your-banner-image)
+![Profile Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I'm a passionate software developer from [Your Country]. I love coding, learning new technologies, and contributing to open-source projects.
 
