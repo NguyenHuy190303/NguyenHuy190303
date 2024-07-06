@@ -12,7 +12,7 @@ I'm a passionate software developer from [Your Country]. I love coding, learning
 
 ## 🛠️ Skills
 - Programming Languages: `Python`, `C`, `C++`
-- Frameworks: 'numpy', 'pandas', 'matlotpip', 'flask', 'streamlit', 'scikit-learn'
+- Frameworks: `numpy`, `pandas`, `matlotpip`, `flask`, `streamlit`, `scikit-learn`
 - Tools: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `anaconda`
 
 ## 📫 Contact Me
