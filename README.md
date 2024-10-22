@@ -5,9 +5,9 @@
 I'm a passionate software developer from VietNam. I love learning new cultures, helping others, learning new technologies, and contributing to research.
 
 ## 🚀 Projects
-- [streamlit-project](https://github.com/NguyenHuy190303/streamlit-project): This Streamlit application showcases various machine learning models and utilities.
+- [Images-Retrieval-Streamlit](https://github.com/NguyenHuy190303/Images-Retrieval-Streamlit): Images (Images Retrieval) is a problem in the field of information queries (Information Retrieval). Its example applications are like Google Search Image, search function Products with pictures on Shopee, Lazada, Tiki, ...
 - [LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA): This project implements a Question Answering system using Large Language Models (LLMs) on PDF documents. The system supports running via Tunnel or Ngrok.
-- [SentimentAnalyzer-Streamlitapp](https://github.com/NguyenHuy190303/SentimentAnalyzer-Streamlitapp): SentimentAnalyzerApp is a user-friendly Streamlit application designed to analyze the sentiment of text inputs.
+- [Mental-Care-AI](https://github.com/NguyenHuy190303/Mental-Care-AI): The project aims to develop an AI-driven mental health support system using the LlamaIndex framework, providing real-time psychological advice, diagnosing mental health conditions, and tracking user progress.
 - [YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project): Fine-tuning YOLOv10 to detect whether workers are wearing a helmet.
 
 ## 🛠️ Skills
