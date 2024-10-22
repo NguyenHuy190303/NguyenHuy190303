@@ -17,6 +17,6 @@ I'm a passionate software developer from VietNam. I love learning new cultures, 
 - Tools: `Git`, `Docker`, `Kubernetes`, `Jupyter Notebook`, `anaconda`, `ngrok`, `GCP`,...
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-5552b22aa/)
-- [Facebook](https://www.facebook.com/Flinnismine/)
+- [LinkedIn](https://www.linkedin.com/in/huy-nguyen-5552b22aa/)
+- [Facebook](https://www.facebook.com/LeonidasSun)
 - [Email](nguyenhuy190303@gmail.com)
