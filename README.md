@@ -9,7 +9,7 @@ I'm a passionate software developer from VietNam. I love learning new cultures, 
 - [LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA): This project implements a Question Answering system using Large Language Models (LLMs) on PDF documents. The system supports running via Tunnel or Ngrok.
 - [Mental-Care-AI](https://github.com/NguyenHuy190303/Mental-Care-AI): The project aims to develop an AI-driven mental health support system using the LlamaIndex framework, providing real-time psychological advice, diagnosing mental health conditions, and tracking user progress.
 - [YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project): Fine-tuning YOLOv10 to detect whether workers are wearing a helmet.
-...
+- ...
 
 ## 🛠️ Skills
 - Programming Languages: `Python`, `C`, `javascript`
