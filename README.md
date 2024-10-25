@@ -3,7 +3,7 @@
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 I'm a passionate software developer from VietNam. I love learning new cultures, helping others, learning new technologies, and contributing to research.
-
+[![GitHub Streak](https://streak-stats.demolab.com/NguyenHuy190303=DenverCoder1)](https://git.io/streak-stats)
 ## 🚀 Projects
 - [Images-Retrieval-Streamlit](https://github.com/NguyenHuy190303/Images-Retrieval-Streamlit): Images (Images Retrieval) is a problem in the field of information queries (Information Retrieval). Its example applications are like Google Search Image, search function Products with pictures on Shopee, Lazada, Tiki, ...
 - [LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA): This project implements a Question Answering system using Large Language Models (LLMs) on PDF documents. The system supports running via Tunnel or Ngrok.
