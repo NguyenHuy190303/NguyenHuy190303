@@ -19,7 +19,7 @@ Here’s a glimpse into some of my projects where I combine AI technologies with
 - **[LLM-PDF-QA](https://github.com/NguyenHuy190303/LLM-PDF-QA)**: A **Question Answering system** that applies **Large Language Models (LLMs)** to extract and analyze information from PDF documents, providing robust insights through **natural language understanding**.
 - **[Mental-Care-AI](https://github.com/NguyenHuy190303/Mental-Care-AI)**: This project utilizes **LLMs** within the **LlamaIndex framework** to provide real-time psychological support, diagnose mental health conditions, and track progress over time with personalized feedback.
 - **[YOLO-Project](https://github.com/NguyenHuy190303/YOLO-Project)**: An application of **YOLOv10** in **Computer Vision** for ensuring worker safety by detecting the presence of helmets in industrial environments.
-- **[Big Data Processing with Apache Spark and Hadoop](https://github.com/NguyenHuy190303/Big-Data-Processing)**: Leveraging **Apache Spark** for distributed data processing and **Apache Hadoop** for managing and storing large datasets, this project showcases efficient batch and real-time processing for big data analysis.
+- **[Big Data Processing with Apache Spark](https://github.com/NguyenHuy190303/Big-Data-Processing)**: Leveraging **Apache Spark** for distributed data processing and **Apache Hadoop** for managing and storing large datasets, this project showcases efficient batch and real-time processing for big data analysis.
 - ...
 
 ---
