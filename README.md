@@ -54,4 +54,4 @@ Feel free to reach out to me through:
 
 ---
 
-_“I’m constantly driven by the potential of AI and Big Data to transform industries, automate the mundane, and solve real-world problems. Join me in exploring the future of AI and data-driven technologies!”_
+_“I believe in using technology as a force for good—bridging divides, fostering connections, and uplifting humanity. Join me in harnessing the power of innovation to create a world where technology serves to unite and empower us all.”_
