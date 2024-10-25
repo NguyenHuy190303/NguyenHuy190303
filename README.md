@@ -24,16 +24,6 @@ Here’s a glimpse into some of my projects where I combine AI technologies with
 
 ---
 
-### 🧠 Expertise in Big Data Processing
-In addition to my work in AI, I have a strong background in **Big Data processing** with extensive experience using **Apache Spark** and **Apache Hadoop** to handle massive datasets:
-
-- **Apache Spark**: A unified analytics engine for large-scale data processing, known for its speed and efficiency in handling both **batch** and **stream processing** workloads.
-- **Apache Hadoop**: A framework for distributed storage and processing of large datasets across clusters of computers using simple programming models, commonly used for managing and analyzing big data.
-- **HDFS (Hadoop Distributed File System)**: A highly fault-tolerant system that provides high throughput access to data, capable of scaling out across multiple nodes in a cluster.
-- **MapReduce**: A key component of Hadoop, used for parallel data processing on large datasets, breaking tasks into smaller sub-tasks distributed across the cluster.
-
----
-
 ### 🛠️ Technical Skills
 - **Programming Languages**: `Python`, `C`, `JavaScript`
 - **AI/ML Frameworks**: `PyTorch`, `Keras`
