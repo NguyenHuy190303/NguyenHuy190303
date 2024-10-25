@@ -4,7 +4,7 @@
 
 I’m a passionate software developer from Vietnam, with a deep love for **Artificial Intelligence**. My key interests revolve around **Computer Vision**, **Large Language Models (LLMs)**, and **Time-Series Analysis**. I continuously explore innovative AI architectures and love applying cutting-edge techniques to solve complex problems in real-world applications.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=500&lines=Hi+there%2C+I'm+Nguyen+Quoc+Huy+(Leo);I'm+passionate+about+Technology%2C+Philosophy%2C+and+Making+Friends.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=500&lines=Hi+there%2C+I'm+Nguyen+Quoc+Huy+(Leo);I'm+passionate+in+Technology%2C+Philosophy%2C+and+Making+Friends.)](https://git.io/typing-svg)
 
 ![Profile Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
